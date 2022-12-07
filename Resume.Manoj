@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Manojkumar-Resume</title>
+<style>
+
+#header
+{
+background-color:blue ;
+}
+
+.sig1
+{
+margin-left:1000px;
+}
+
+table,tr,td,th
+{
+border:2px solid blue;
+border-collapse:collapse;
+badding:10px
+text-align:center;
+}
+</style>
+</head> 
+<body>
+
+<div style="background-color:blue ; height:40px";>
+<h1 style="color:white;text-align:center;font-size:30px";>RESUME</h1>
+</div>
+
+<!--<img src="C:\Users\ELCOT\Desktop\PROJECT FOLDER\IMAGES-HTML\Love-1.jpg" alt="MANOJKUMAR PICTURE" title="picture" style="width:300px;height:400px"/>
+--> 
+<p><b>MANOJKUMAR</b></p>
+<p>Mail Id : manojk21600@gmail.com</p>
+<p>No.1/250, East Street,<p> 
+<p>Namasivayapuram,<p>
+<p>Vilathikulam (TK), </p>
+<p>Tuticorin (DT) </p>
+<p>Pin No: 628712 </p>
+<p>Mob No : 8925180536</p>
+
+<div id="header">
+<dl>
+<h3 style="color:white;"><dt>CAREER OBJECTIVE :<dt></h3> 
+</div>
+<dd>To work in a competitive and challenging atmosphere and to contribute the best of my ability towards the growth and development of a progressive company. </dd>
+<dl>
+
+<div id="header">
+<h3 style="color:white;">EDUCATION :</h3>
+</div>
+<table>
+<tr>
+<th>Qualification</th>
+<th>Name of the School/College</th>
+<th>Year of Passing</th>
+<th>precentage</th>
+</tr>
+
+<tr>
+<td>BACHELOR OF SCIENCE (CS)</td>
+<td>  Devanga Arts College.<br>
+      Aruppukottai.<br>                                                          
+	  Virudhunagar(DT)</td>
+<td>2017-20</td>
+<td>60%</td>
+</tr>
+
+<tr>
+<td>H.S.C</td>
+<td> Government Higher Secondary School.<br>
+     Sivagnanapuram.<br>                                                          
+	 Tuticorin(DT)</td></td>
+<td>2015-17</td>
+<td>73.5%</td>
+
+</tr>
+
+<tr>
+<td>S.S.L.C</td>
+<td>Government Higher Secondary School.<br>
+     Sivagnanapuram.<br>                                                          
+	 Tuticorin(DT)</td></td></td>
+<td>2014-15</td>
+<td>82.6%</td>
+</tr>
+<table>
+<br>
+
+<div id="header">
+<h3 style="color:white;">COMPUTER PROFICIENCY :</h3>
+</div>
+<ol>
+<li>Ms office</li>
+<li>Html</li> 
+<li>Css</li> 
+<li>java</li>
+</ol>
+
+<hr>
+<div id="header">
+<h3 style="color:white;">INTER PERSONAL SKILLS :</h3>
+</div>
+
+<ul>
+<li>Good listener</li>
+<li>Will take responsibilities</li>
+<li>Good in time management</li>
+<li>good at teaching others what has learned</li>
+</ul>
+
+
+<div id="header">
+<h3 style="color:white;">PERSONAL INTEREST :</h3>
+</div>
+
+<ul>
+<li>Games</li>
+<li>Create Memes</li>
+<li>Knowing the unknown</li>
+</ul>
+
+<div id="header">
+<h3 style="color:white;">LANGUAGES :</h3>
+</div>  
+<ol>
+<li>Tamil</li>
+<li>English</li>
+</ol>
+
+
+<div id="header">
+<h3 style="color:white;">PERSONAL DETAILS :</h3>
+</div>
+<p><b style="font-size:16px">NAME               :</b>Manojkumar</p>
+<p><b style="font-size:16px">FATHER NAME        :</b>Seenivasan</p>    
+<p><b style="font-size:16px">DATE OF BIRTH      :</b>21.06.2000</p>
+<P><b style="font-size:16px">NATIONAL/ RELIGION :</b> Indian/Hindu</P>
+<P><b style="font-size:16px">MARITAL STATUS     :</b> Unmarried</P>
+<p><b style="font-size:16px">ADDRESS            :</b> No.1/250, East Street,Namasivayapuram,Vilathikulam (TK),Tuticorin (DT),Pin No: 628712,</p>
+<p><b style="font-size:16px">Mob No             :</b> 8925180536</p>
+<p><b style="font-size:16px">MAIL ID            :</b> manojk21600@gmail.com</p>
+
+<dl>
+<div id="header">
+<h3 style="color:white;">DECLARATION :</h3>
+</div>
+<dd>I hereby declare that the information furnished above is true to  the best of my knowledge.</dd>
+<dl>
+<br>
+
+<p><b style="font-size:16px">Place :</B></p> 
+<p><b style="font-size:16px">Date :</B></p>
+<h4 class="sig1"> SIGNATURE </h4>
+<!--<h5 style="text-align:right">SIGNATURE</h5>-->
+<br>
+<div style="background-color:blue ; height:40px";></div>
+</body>
+</html>
